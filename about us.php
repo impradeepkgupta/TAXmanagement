@@ -39,10 +39,10 @@
                 <h2 align="center">About US</h2>
                 <hr style="width:100%;border-width:1px;margin-left:0%;border-top:solid black">
                 <h3 align="center">Group Members</h3>
-                <h5 align="center">Soumyajit Das</h5>
-                <p class="text-center">19BCI0228</p>
-                <h5 align="center">Poonam Tomar</h5>
-                <p class="text-center">19BCE2513</p>
+                <h5 align="center">Pradeep Kumar Gupta</h5>
+                <p class="text-center">19BCE2702</p>
+                <h5 align="center">Aayush Parajuli</h5>
+                <p class="text-center">19BCE2664</p>
             </div>
             <div class="col-sm-3 bg-light"></div>
         </div>
